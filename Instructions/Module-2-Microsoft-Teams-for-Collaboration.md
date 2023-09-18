@@ -243,9 +243,10 @@ In this task, we will create and assign a messaging policy to the user from the 
 - If not, carefully read the error message and retry the step, following the instructions in the lab guide.
 - If you need any assistance, please contact us at labs-support@spektrasystems.com. We are available 24/7 to help you out.
 
-## Review
-
-In this module, you learned how to work with Teams policies and use Teams for collaboration.
+### Review
+In this lab, you have completed:
+- End User Experience
+- Explore Teams admin center
 
 ## You have successfully completed the lab.
    
