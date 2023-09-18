@@ -417,9 +417,10 @@ List helps to track information and organize your work. With a list, one can tra
 
 1. You can explore other options available in Microsoft List.
 
-## Review
-
-In this module, you have learned how to create users and assign licenses to the users from the Microsoft 365 admin center. You have also learned how to add domains and the process to access other admin centers and explored through various office365 apps.
+### Review
+In this lab, you have completed:
+- Admin Experience for User Management
+- Explore Microsoft 365 Apps
 
 ## You have successfully completed the lab.
 
