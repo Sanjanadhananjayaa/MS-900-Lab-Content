@@ -436,8 +436,12 @@ Before we explore the Microsoft EndPoint Manager, we need to activate the **Ente
      
 1. To learn more about Endpoint Manager refer to https://docs.microsoft.com/en-us/mem/intune/fundamentals.
 
-## Review
-
-With the help of this module, you learned how to create M365 groups, forms, plans and assign tasks using Planner, also visualized sample data using Power BI and explored through EndPoint Manager
+### Review
+In this lab, you have completed:
+- Create M365 Groups
+- Explore Microsoft Planner
+- Setup Microsoft Forms
+- Setup Basic PowerBI Report from a sample Excel 
+- Explore Microsoft EndPoint Manager
 
 ## You have successfully completed the lab.
